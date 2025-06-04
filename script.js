@@ -47,9 +47,9 @@ window.addEventListener('load', revealOnScroll);
 
 // Carrossel
 const images = [
-  './img/campo.png',
-  './img/malte.png',
-  './img/cidade.png'
+  './img/café1.webp',
+  './img/café2.jpg',
+  './img/café3.jpg'
 ];
 let currentIndex = 0;
 
