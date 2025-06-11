@@ -48,7 +48,7 @@ window.addEventListener('load', revealOnScroll);
 // Carrossel
 const images = [
   './img/café1.webp',
-  './img/café2.jpg',
+  './img/café-arabica(1).webp',
   './img/café3.jpg'
 ];
 let currentIndex = 0;
